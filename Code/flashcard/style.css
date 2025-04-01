@@ -54,7 +54,7 @@
 }
 
 .flashcards .previous-button {
-    background-color: #fef8f2;
+    background-color: #fbc1a4;
     border-radius: 23.5px;
     box-shadow: 0px 4px 4px #00000040;
     height: 47px;
@@ -63,7 +63,7 @@
 }
 
 .flashcards .next-button {
-    background-color: #f2fef2;
+    background-color: #9aff9a;
     border-radius: 23.5px;
     box-shadow: 0px 4px 4px #00000040;
     height: 47px;
